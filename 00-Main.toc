@@ -1,0 +1,14 @@
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{\numberline {I}List of Figures}{III}{chapter.1}%
+\contentsline {chapter}{\numberline {II}List of Tables}{IV}{chapter.2}%
+\contentsline {chapter}{\numberline {III}Abbreviations}{V}{chapter.3}%
+\contentsline {chapter}{\numberline {1}Latex}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Tools}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Literature References}{1}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Pictures}{1}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Tables}{2}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Listes}{2}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Formulæ}{2}{section.1.6}%
+\contentsline {section}{\numberline {1.7}Tools and Code}{2}{section.1.7}%
+\contentsline {section}{\numberline {1.8}Citation examples}{3}{section.1.8}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
